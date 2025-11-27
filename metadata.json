@@ -1,0 +1,8 @@
+{
+  "name": "Apostila Interativa: Análise de Requisitos",
+  "description": "Uma aplicação web interativa baseada em uma apostila de análise de requisitos, permitindo que os usuários leiam o conteúdo, completem exercícios e acompanhem seu progresso.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
